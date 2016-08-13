@@ -1,5 +1,7 @@
 # Motion-detection-TelegramBot
 
+![](https://raw.githubusercontent.com/fl64/Motion-detection-TelegramBot/c7db15d6ff2614820ebb2078b383b3e9edc3914a/pri2.JPG)
+
 ## Intro
 - Телеграм-бот для получения фото с веб-камеры в случае фиксации ей какого-либо движения.
 - Тестировался и отлаживался на Rasberry Pi2 с Ubuntu Server 16.04. Описание установки Ubuntu Server доступно по ссылке: https://wiki.ubuntu.com/ARM/RaspberryPi
